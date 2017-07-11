@@ -1,0 +1,20 @@
+xserver-xorg-video-ati  # Mobility Radeon HD 3450/3470
+firmware-linux-nonfree
+pulseaudio-module-zeroconf
+pavucontrol
+firmware-iwlwifi
+apt-file
+wireless-tools
+rfkill
+xinput
+curl
+gcc
+gcc-arm-linux-gnueabihf
+openbox
+git
+xinit
+xbacklight
+chromium
+mplayer
+rxvt-unicode
+rofi
